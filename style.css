@@ -1,0 +1,38 @@
+.logo {
+    display: inline;
+    height: 90px;
+    width: 470px;
+    background-repeat: no-repeat;
+    background-position: flex-start;
+  }
+
+  .jumbotron{
+    background-image: url("../Images/hero image .png");
+    height: 930px;
+
+  }
+
+.btn{
+background-color: white;
+
+}
+
+ .btn2{
+    background-color: white;
+    text-emphasis-color: black;
+ }
+
+ .skillsec{
+    font-size: large;
+    font-weight: 500;
+ }
+
+ .footer {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background: grey;
+    height: 100px;
+    padding-top: 20px;
+
+  }
